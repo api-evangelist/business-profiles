@@ -1,0 +1,45 @@
+{
+    "name": "Business Profiles",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/business-profiles-com.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/business-profiles\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Business Profiles",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/business-profiles-com.png",
+            "humanURL": "http:\/\/businessprofiles.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/business-profiles-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "contact@businessprofiles.com"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@businessprofiles.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/businessprofiles.com\/api"
+        }
+    ]
+}
